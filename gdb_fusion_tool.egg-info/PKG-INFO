@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: gdb_fusion_tool
+Version: 0.1.0
+Summary: GDB融合工具 - 用于融合多个GDB文件
+Author: Manus AI
+Author-email: info@example.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.6
+Requires-Dist: fiona>=1.8.0
+Requires-Dist: geopandas>=0.10.0
+Requires-Dist: shapely>=1.7.0
+Requires-Dist: tqdm>=4.50.0

@@ -1,0 +1,22 @@
+{
+    "line_id": {
+        "target_field": "id",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "line_name": {
+        "target_field": "name",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "line_length": {
+        "target_field": "length",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "category": {
+        "target_field": "type",
+        "conversion": "direct",
+        "default_value": null
+    }
+}

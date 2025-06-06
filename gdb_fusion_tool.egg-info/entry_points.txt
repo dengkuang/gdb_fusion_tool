@@ -1,0 +1,2 @@
+[console_scripts]
+gdb-fusion = gdb_fusion_tool.src.__main__:main

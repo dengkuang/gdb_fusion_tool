@@ -1,0 +1,22 @@
+{
+    "polygon_id": {
+        "target_field": "id",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "polygon_name": {
+        "target_field": "name",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "size": {
+        "target_field": "area",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "category": {
+        "target_field": "type",
+        "conversion": "direct",
+        "default_value": null
+    }
+}

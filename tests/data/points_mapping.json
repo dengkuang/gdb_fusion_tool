@@ -1,0 +1,22 @@
+{
+    "point_id": {
+        "target_field": "id",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "point_name": {
+        "target_field": "name",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "value": {
+        "target_field": "value",
+        "conversion": "direct",
+        "default_value": null
+    },
+    "type": {
+        "target_field": "category",
+        "conversion": "direct",
+        "default_value": null
+    }
+}
